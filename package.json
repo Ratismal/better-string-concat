@@ -1,0 +1,19 @@
+{
+  "name": "better-string-concat",
+  "version": "1.0.0",
+  "description": "Joins strings in the best way possible.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "keywords": [
+    "meme",
+    "strings"
+  ],
+  "author": "stupid cat",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ratismal/better-string-concat.git"
+  }
+}
